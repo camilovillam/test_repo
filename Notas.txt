@@ -1,0 +1,4 @@
+Nota 1, nuevo archivo.
+
+
+Cambios en un archivo ignorado.
